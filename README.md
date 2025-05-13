@@ -1,6 +1,7 @@
 # Data Analysis Portfolio
 
-HII!
+HII!❤️🍀
+
 Welcome to my data analytics portfolio, and thank you for taking the time to check it out. :D
 Below are some of my projects exploring real-world (and scarefully simulated) datasets using SQL, R, and Excel. Each project is designed to solve a problem, explore patterns, or generate actionable insights.
 
@@ -28,6 +29,6 @@ Below are some of my projects exploring real-world (and scarefully simulated) da
 ---
 
 More projects are on the way. 
-Thank you again for passing by. :)) 
+Thank you again for passing by. :)) 🌱
 
 
