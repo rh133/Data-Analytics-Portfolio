@@ -24,7 +24,7 @@ Below are some of my projects exploring real-world (and scarefully simulated) da
 ## Performance Analysis of a Coffee Retail Business
 **Tools:** Excel, Pivot Tables, Charts 
 **Focus:** Analyzing product performance, sales, and understand customer behavior
-🔗 [View Project](https://github.com/rh133/performance_analysis_of_coffee_retail_business)
+ [View Project](https://github.com/rh133/performance_analysis_of_coffee_retail_business)
 
 ---
 
