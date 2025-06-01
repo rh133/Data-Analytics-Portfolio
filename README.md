@@ -4,7 +4,7 @@ HII!❤️🍀
 
 Welcome to my data analytics portfolio, and thank you for taking the time to check it out. :D
 Below are some of my projects exploring real-world (and scarefully simulated) datasets using SQL, R, and Excel. Each project is designed to solve a problem, explore patterns, or generate actionable insights.
-
+Check out my [resume](https://drive.google.com/file/d/1v8ZPG_gxgDF1LkdoyOQbcUT0A3aXiliL/view?usp=drive_link) too!
 ---
 
 ## Food Waste and Environmental Impact Analysis - Exploratory Data analysis Case Study using SQL 
